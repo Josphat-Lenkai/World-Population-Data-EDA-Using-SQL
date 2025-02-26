@@ -1,1 +1,1 @@
-# World-Population-EDA-Using-SQL
+# World-Population-Data-EDA-Using-SQL
